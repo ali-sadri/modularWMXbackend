@@ -1,4 +1,4 @@
 package waste.solutions.modularWMXbackend.apInvoice.domain.core;
 
-public class LineItemDomainServiceImpl {
+public interface APLineItemDomainService {
 }
