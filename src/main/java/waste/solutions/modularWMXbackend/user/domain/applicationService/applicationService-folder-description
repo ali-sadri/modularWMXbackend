@@ -1,0 +1,4 @@
+will contain DTO (data transfer objects of entities if needed),
+any required mappers,
+API Service objects,
+Spring Repository interfaces

@@ -1,0 +1,2 @@
+All the http controllers go inside this folder.
+The api folder will contain sub-folders for each entity objects of the module

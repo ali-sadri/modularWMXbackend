@@ -1,0 +1,3 @@
+data access folder contains all the database entity objects,
+all the required mappers (to map core entities to database entities),
+and spring Repository implementations
